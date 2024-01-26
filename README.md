@@ -1,16 +1,29 @@
-### Hi there 👋
+# Rabia Elomary - Network Specialist
 
-<!--
-**RabiaEl/RabiaEl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diplôme de Technicien Spécialisé en Réseau Informatique  
+🔧 CCNA 1,2,3,4 Certified | CCNA Security Certified | ITE
 
-Here are some ideas to get you started:
+## About Me
+Passionate and highly skilled Network Specialist with a strong background in information technology. Eager to contribute my expertise in network configuration, server management, and IT security to a dynamic team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- 🌐 Cisco Certified Network Associate (CCNA) 1, 2, 3, 4
+- 🔒 CCNA Security
+- 💻 ITE (Information Technology Essentials)
+
+## Skills
+- ⚙️ Network Configuration
+- 🖥️ Server Management
+- 🔐 IT Security
+- [Add any other relevant skills]
+
+## Education
+- 🎓 Diplôme de Technicien Spécialisé en Réseau Informatique
+
+## Job Search
+Currently seeking opportunities in the field of network administration and IT. Open to challenging roles that allow me to apply and enhance my skills.
+
+## Contact
+- ✉️ Email: your.email@example.com  
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)  
+- 🌐 GitHub: [GitHub Profile](https://github.com/yourgithubusername)
