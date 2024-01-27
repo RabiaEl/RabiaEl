@@ -24,6 +24,6 @@ Passionate and highly skilled Network Specialist with a strong background in inf
 Currently seeking opportunities in the field of network administration and IT. Open to challenging roles that allow me to apply and enhance my skills.
 
 ## Contact
-- ✉️ Email: your.email@example.com  
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile/)  
+- ✉️ Email: elomaryrabia180@example.com  
+- 🔗 LinkedIn:(https://www.linkedin.com/in/rabia-elomary-57418a2b1/) 
 - 🌐 GitHub: [GitHub Profile](https://github.com/yourgithubusername)
