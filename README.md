@@ -8,11 +8,11 @@ Passionate and highly skilled Network Specialist with a strong background in inf
 
 ## Certifications
 - 🌐 Cisco Certified Network Associate :
-        - CCNA 1: Introduction to Networks
-        -CCNA 2: Switching, Routing, and Wireless Essentials
-        -CCNA 3: Enterprise Networking, Security, and Automation
-        -CCNA 4: Connecting Networks
-        -🔒 CCNA Security
+    - CCNA 1: Introduction to Networks
+    - CCNA 2: Switching, Routing, and Wireless Essentials
+    - CCNA 3: Enterprise Networking, Security, and Automation
+    - CCNA 4: Connecting Networks
+    - 🔒 CCNA Security
 - 💻 ITE (Information Technology Essentials)
 
 ## Skills
@@ -29,5 +29,5 @@ Currently seeking opportunities in the field of network administration and IT. O
 
 ## Contact
 - ✉️ Email: elomaryrabia180@gmail.com  
-- 🔗 LinkedIn:https://www.linkedin.com/in/rabia-elomary-57418a2b1/
-- 🌐 GitHub:https://github.com/RabiaEl)https://github.com/RabiaEl
+- 🔗 LinkedIn: https://www.linkedin.com/in/rabia-elomary-57418a2b1/
+- 🌐 GitHub: https://github.com/RabiaEl
